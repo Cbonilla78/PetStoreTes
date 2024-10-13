@@ -1,6 +1,6 @@
 # Autor: Christhian Bonilla
 ##### ------------------------------------------------------------------------------------------------------
-# Realizar  Pruebas Automatizadas API :"PetStore
+# Realizar  Pruebas Automatizadas API :"PetStore"
 ##### ------------------------------------------------------------------------------------------------------
 
 	#### Api automatizado: https://petstore.swagger.io/ 
@@ -15,9 +15,9 @@
 ##### ------------------------------------------------------------------------------------------------------
 # PASOS PARA LA EJECUCIÓN
 ### PASO A PASO PARA LA EJECUCIÓN POR CONSOLA
+#### mvn test o ejecutar en el proyecto RunTest
 
-## Comando para ejecuta el escenario
-#### mvn test install
+## Los Reportes están ubicados en la ruta: C:/path proyecto../PetStoreTest/target/karate-reports/karate.petstore.html 
 ##### ------------------------------------------------------------------------------------------------------
 
 

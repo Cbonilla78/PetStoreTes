@@ -17,7 +17,7 @@
 ### PASO A PASO PARA LA EJECUCIÓN POR CONSOLA
 #### mvn test o ejecutar en el proyecto RunTest
 
-## Los Reportes están ubicados en la ruta: C:/path proyecto../PetStoreTest/target/karate-reports/karate.petstore.html 
+## Los Reportes están ubicados en la ruta: C:/path proyecto../PetStoreTest/target/karate-reports/res/karate.petstore.html 
 ##### ------------------------------------------------------------------------------------------------------
 
 
